@@ -1,0 +1,7 @@
+{
+  "name": "GovGuide AI: Government Form Assistant",
+  "description": "A browser extension overlay that simplifies government forms with AI explanations, checklists, and interview prep.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
